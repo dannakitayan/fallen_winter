@@ -1,0 +1,4 @@
+name = basic_anvil
+description = Adds an easy tool repair craft
+depends = default
+optional_depends = farming, 3d_armor

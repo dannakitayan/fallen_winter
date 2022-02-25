@@ -1,0 +1,4 @@
+name = teslamaterial
+description = Adds data
+depends = default
+optional_depends = farming, 3d_armor
